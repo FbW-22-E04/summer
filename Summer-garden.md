@@ -1,6 +1,5 @@
 # Летний сад (Summer Garden)
 ## by Anna Akhmatova
-{:.verse}:
 
 - I want to visit the roses
 - In that lonely
@@ -19,7 +18,5 @@
 - Love. And everything is mother-
 - Of-pearl and jasper,
 - But the light’s source is a secret.
-
-{:.verse}
 
 *July, 1959, Leningrad*

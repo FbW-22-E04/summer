@@ -1,5 +1,6 @@
 # Летний сад (Summer Garden)
 ## by Anna Akhmatova
+{:.verse}:
 
 - I want to visit the roses
 - In that lonely
